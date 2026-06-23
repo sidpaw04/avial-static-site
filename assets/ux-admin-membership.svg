@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img" aria-labelledby="title desc">
+  <title id="title">Admin UI membership list</title>
+  <desc id="desc">A club admin membership list with member status, sections, roles and subscriptions.</desc>
+  <rect width="980" height="620" rx="26" fill="#f8f5ee"/>
+  <rect x="22" y="22" width="936" height="576" rx="18" fill="#ffffff" stroke="#ded4c4"/>
+  <rect x="22" y="22" width="936" height="58" rx="18" fill="#174d3a"/>
+  <text x="54" y="58" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Avial Admin</text>
+  <text x="210" y="58" fill="#d2dfd7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Members</text>
+  <text x="292" y="58" fill="#8fb09e" font-family="Inter, Arial, sans-serif" font-size="13">Teams</text>
+  <text x="358" y="58" fill="#8fb09e" font-family="Inter, Arial, sans-serif" font-size="13">Finance</text>
+  <circle cx="914" cy="51" r="18" fill="#ffffff" opacity=".18"/>
+  <text x="54" y="126" fill="#13251d" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Membership List</text>
+  <text x="54" y="153" fill="#6f7b86" font-family="Inter, Arial, sans-serif" font-size="15">Active, overdue and pending subscriptions across every section.</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="54" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="78" y="218" fill="#6f7b86" font-size="12" font-weight="800">ACTIVE MEMBERS</text>
+    <text x="78" y="252" fill="#13251d" font-size="32" font-weight="850">134</text>
+    <rect x="272" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="296" y="218" fill="#6f7b86" font-size="12" font-weight="800">COLLECTED</text>
+    <text x="296" y="252" fill="#13251d" font-size="32" font-weight="850">GBP 14.8k</text>
+    <rect x="490" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="514" y="218" fill="#6f7b86" font-size="12" font-weight="800">OUTSTANDING</text>
+    <text x="514" y="252" fill="#13251d" font-size="32" font-weight="850">GBP 2.3k</text>
+    <rect x="708" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="732" y="218" fill="#6f7b86" font-size="12" font-weight="800">RENEWALS DUE</text>
+    <text x="732" y="252" fill="#13251d" font-size="32" font-weight="850">17</text>
+  </g>
+  <rect x="54" y="306" width="852" height="234" rx="18" fill="#ffffff" stroke="#e6dac9"/>
+  <rect x="54" y="306" width="852" height="44" rx="18" fill="#f0ece4"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" font-weight="850" fill="#6f7b86">
+    <text x="82" y="334">Member</text><text x="310" y="334">Section</text><text x="472" y="334">Role</text><text x="620" y="334">Subscription</text><text x="792" y="334">Balance</text>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="14" fill="#24384d">
+    <text x="82" y="382" font-weight="800">James Hartley</text><text x="310" y="382">Cricket</text><text x="472" y="382">Captain</text><rect x="620" y="363" width="58" height="24" rx="12" fill="#e0f0e7"/><text x="636" y="380" fill="#1b5e35" font-size="12" font-weight="850">Paid</text><text x="792" y="382">GBP 0</text>
+    <line x1="72" y1="404" x2="888" y2="404" stroke="#eee7dd"/>
+    <text x="82" y="434" font-weight="800">Priya Sharma</text><text x="310" y="434">Tennis</text><text x="472" y="434">Member</text><rect x="620" y="415" width="58" height="24" rx="12" fill="#fff3d6"/><text x="632" y="432" fill="#8f5e00" font-size="12" font-weight="850">Due</text><text x="792" y="434">GBP 45</text>
+    <line x1="72" y1="456" x2="888" y2="456" stroke="#eee7dd"/>
+    <text x="82" y="486" font-weight="800">Tom Bridges</text><text x="310" y="486">Cricket</text><text x="472" y="486">Player</text><rect x="620" y="467" width="76" height="24" rx="12" fill="#fde8e8"/><text x="635" y="484" fill="#b83232" font-size="12" font-weight="850">Overdue</text><text x="792" y="486">GBP 85</text>
+  </g>
+</svg>

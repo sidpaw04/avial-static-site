@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">Avial mobile team selection screen</title>
+  <desc id="desc">A polished mobile screen for selecting a match squad from available members.</desc>
+  <rect width="390" height="844" rx="46" fill="#141922"/>
+  <rect x="9" y="9" width="372" height="826" rx="38" fill="#f7f2e9"/>
+  <rect x="154" y="23" width="82" height="6" rx="3" fill="#252c35"/>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="24" y="70" fill="#174d3a" font-size="13" font-weight="650">Team selection</text>
+    <text x="24" y="105" fill="#13251d" font-size="25" font-weight="760">1st XI vs Harton CC</text>
+    <text x="24" y="130" fill="#6f7b86" font-size="13" font-weight="430">Home Ground - 25 Jun - 13:00</text>
+
+    <rect x="24" y="154" width="342" height="86" rx="22" fill="#174d3a"/>
+    <text x="46" y="187" fill="#d5e4dc" font-size="12" font-weight="650">SQUAD STATUS</text>
+    <text x="46" y="216" fill="#ffffff" font-size="22" font-weight="730">11 selected from 18 available</text>
+    <rect x="278" y="180" width="58" height="28" rx="14" fill="#ffffff" opacity=".14"/>
+    <text x="294" y="198" fill="#ffffff" font-size="12" font-weight="650">Draft</text>
+
+    <text x="24" y="282" fill="#13251d" font-size="18" font-weight="720">Available players</text>
+
+    <rect x="24" y="298" width="342" height="68" rx="18" fill="#ffffff"/>
+    <circle cx="60" cy="332" r="18" fill="#e0f0e7"/>
+    <text x="50" y="338" fill="#174d3a" font-size="13" font-weight="720">JH</text>
+    <text x="92" y="324" fill="#13251d" font-size="15" font-weight="690">James Hartley</text>
+    <text x="92" y="345" fill="#6f7b86" font-size="12">Top order batter</text>
+    <rect x="294" y="316" width="42" height="28" rx="14" fill="#174d3a"/>
+    <text x="309" y="334" fill="#ffffff" font-size="12" font-weight="650">In</text>
+
+    <rect x="24" y="378" width="342" height="68" rx="18" fill="#ffffff"/>
+    <circle cx="60" cy="412" r="18" fill="#e0f0e7"/>
+    <text x="51" y="418" fill="#174d3a" font-size="13" font-weight="720">PS</text>
+    <text x="92" y="404" fill="#13251d" font-size="15" font-weight="690">Priya Sharma</text>
+    <text x="92" y="425" fill="#6f7b86" font-size="12">Wicket keeper</text>
+    <rect x="294" y="396" width="42" height="28" rx="14" fill="#174d3a"/>
+    <text x="309" y="414" fill="#ffffff" font-size="12" font-weight="650">In</text>
+
+    <rect x="24" y="458" width="342" height="68" rx="18" fill="#ffffff"/>
+    <circle cx="60" cy="492" r="18" fill="#f6e9c7"/>
+    <text x="50" y="498" fill="#8f5e00" font-size="13" font-weight="720">TB</text>
+    <text x="92" y="484" fill="#13251d" font-size="15" font-weight="690">Tom Bridges</text>
+    <text x="92" y="505" fill="#6f7b86" font-size="12">Fast bowler - maybe</text>
+    <rect x="286" y="476" width="58" height="28" rx="14" fill="#fff3d6"/>
+    <text x="302" y="494" fill="#8f5e00" font-size="12" font-weight="650">Bench</text>
+
+    <rect x="24" y="558" width="342" height="130" rx="24" fill="#ffffff"/>
+    <text x="46" y="592" fill="#13251d" font-size="17" font-weight="720">Selected squad</text>
+    <text x="276" y="592" fill="#174d3a" font-size="12" font-weight="650">Ready</text>
+    <g fill="#e4f2ea">
+      <rect x="46" y="612" width="50" height="27" rx="13.5"/><rect x="104" y="612" width="50" height="27" rx="13.5"/><rect x="162" y="612" width="50" height="27" rx="13.5"/><rect x="220" y="612" width="50" height="27" rx="13.5"/><rect x="278" y="612" width="50" height="27" rx="13.5"/>
+      <rect x="46" y="650" width="50" height="27" rx="13.5"/><rect x="104" y="650" width="50" height="27" rx="13.5"/><rect x="162" y="650" width="50" height="27" rx="13.5"/><rect x="220" y="650" width="50" height="27" rx="13.5"/>
+    </g>
+    <g fill="#174d3a" font-size="11" font-weight="700">
+      <text x="62" y="630">JH</text><text x="120" y="630">PS</text><text x="178" y="630">AK</text><text x="236" y="630">DR</text><text x="294" y="630">MS</text>
+      <text x="62" y="668">LC</text><text x="120" y="668">NP</text><text x="178" y="668">SM</text><text x="236" y="668">GK</text>
+    </g>
+
+    <rect x="24" y="724" width="342" height="52" rx="26" fill="#174d3a"/>
+    <text x="134" y="756" fill="#ffffff" font-size="14" font-weight="690">Announce squad</text>
+  </g>
+</svg>

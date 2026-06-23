@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 584" fill="none" role="img" aria-label="Avial logo">
+  <title>Avial</title>
+
+  <!-- Arch / house outer frame — bottle green, open at bottom -->
+  <path
+    d="M 100,580 L 100,305 L 280,64 L 460,305 L 460,580"
+    stroke="#174d3a"
+    stroke-width="40"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Figure left arm — bottle green, arcs up-left then down -->
+  <path
+    d="M 245,304 C 172,198 130,256 116,434"
+    stroke="#174d3a"
+    stroke-width="38"
+    stroke-linecap="round"/>
+
+  <!-- Figure right arm — gold, arcs up-right then down -->
+  <path
+    d="M 315,304 C 388,198 430,256 444,434"
+    stroke="#b89040"
+    stroke-width="38"
+    stroke-linecap="round"/>
+
+  <!-- Head — gold circle -->
+  <circle cx="280" cy="234" r="50" fill="#b89040"/>
+</svg>

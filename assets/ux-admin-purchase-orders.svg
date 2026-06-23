@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img" aria-labelledby="title desc">
+  <title id="title">Admin UI purchase orders</title>
+  <desc id="desc">A purchase order management screen with approvals, suppliers and budget impact.</desc>
+  <rect width="980" height="620" rx="26" fill="#f8f5ee"/>
+  <rect x="22" y="22" width="936" height="576" rx="18" fill="#ffffff" stroke="#ded4c4"/>
+  <rect x="22" y="22" width="936" height="58" rx="18" fill="#174d3a"/>
+  <text x="54" y="58" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Avial Admin</text>
+  <text x="210" y="58" fill="#8fb09e" font-family="Inter, Arial, sans-serif" font-size="13">Members</text>
+  <text x="292" y="58" fill="#8fb09e" font-family="Inter, Arial, sans-serif" font-size="13">Teams</text>
+  <text x="358" y="58" fill="#d2dfd7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Finance</text>
+  <text x="54" y="126" fill="#13251d" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Purchase Orders</text>
+  <text x="54" y="153" fill="#6f7b86" font-family="Inter, Arial, sans-serif" font-size="15">Raise, approve and track club expenses with clear ownership.</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="54" y="190" width="270" height="314" rx="18" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="78" y="228" fill="#13251d" font-size="18" font-weight="850">New request</text>
+    <text x="78" y="264" fill="#6f7b86" font-size="12" font-weight="850">SUPPLIER</text><rect x="78" y="276" width="196" height="34" rx="10" fill="#ffffff" stroke="#ded4c4"/><text x="94" y="298" fill="#24384d" font-size="13">Grounds Hire Ltd</text>
+    <text x="78" y="340" fill="#6f7b86" font-size="12" font-weight="850">AMOUNT</text><rect x="78" y="352" width="196" height="34" rx="10" fill="#ffffff" stroke="#ded4c4"/><text x="94" y="374" fill="#24384d" font-size="13">GBP 400</text>
+    <text x="78" y="416" fill="#6f7b86" font-size="12" font-weight="850">BUDGET</text><rect x="78" y="428" width="196" height="34" rx="10" fill="#ffffff" stroke="#ded4c4"/><text x="94" y="450" fill="#24384d" font-size="13">Facilities</text>
+    <rect x="78" y="484" width="196" height="38" rx="19" fill="#174d3a"/><text x="122" y="509" fill="#fff" font-size="13" font-weight="850">Submit for approval</text>
+  </g>
+  <rect x="354" y="190" width="552" height="314" rx="18" fill="#ffffff" stroke="#e6dac9"/>
+  <rect x="354" y="190" width="552" height="44" rx="18" fill="#f0ece4"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" font-weight="850" fill="#6f7b86">
+    <text x="384" y="218">Request</text><text x="590" y="218">Owner</text><text x="704" y="218">Amount</text><text x="804" y="218">Status</text>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="14" fill="#24384d">
+    <text x="384" y="270" font-weight="800">Grounds Hire</text><text x="590" y="270">Treasurer</text><text x="704" y="270">GBP 400</text><rect x="804" y="251" width="76" height="24" rx="12" fill="#fff3d6"/><text x="819" y="268" fill="#8f5e00" font-size="12" font-weight="850">Pending</text>
+    <line x1="374" y1="292" x2="886" y2="292" stroke="#eee7dd"/>
+    <text x="384" y="322" font-weight="800">Junior Kit</text><text x="590" y="322">Section Lead</text><text x="704" y="322">GBP 720</text><rect x="804" y="303" width="78" height="24" rx="12" fill="#e0f0e7"/><text x="819" y="320" fill="#1b5e35" font-size="12" font-weight="850">Approved</text>
+    <line x1="374" y1="344" x2="886" y2="344" stroke="#eee7dd"/>
+    <text x="384" y="374" font-weight="800">Bar Stock</text><text x="590" y="374">Club Admin</text><text x="704" y="374">GBP 315</text><rect x="804" y="355" width="66" height="24" rx="12" fill="#e4f2ea"/><text x="819" y="372" fill="#174d3a" font-size="12" font-weight="850">Paid</text>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img" aria-labelledby="title desc">
+  <title id="title">Admin UI revenue management</title>
+  <desc id="desc">A revenue management screen with income, expenses, outstanding balances and monthly chart.</desc>
+  <rect width="980" height="620" rx="26" fill="#f8f5ee"/>
+  <rect x="22" y="22" width="936" height="576" rx="18" fill="#ffffff" stroke="#ded4c4"/>
+  <rect x="22" y="22" width="936" height="58" rx="18" fill="#174d3a"/>
+  <text x="54" y="58" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Avial Admin</text>
+  <text x="358" y="58" fill="#d2dfd7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">Finance</text>
+  <text x="54" y="126" fill="#13251d" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Revenue Management</text>
+  <text x="54" y="153" fill="#6f7b86" font-family="Inter, Arial, sans-serif" font-size="15">Track income, expenditure and outstanding balances by month.</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="54" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="78" y="218" fill="#6f7b86" font-size="12" font-weight="800">TOTAL REVENUE</text><text x="78" y="252" fill="#13251d" font-size="31" font-weight="850">GBP 24.8k</text>
+    <rect x="272" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="296" y="218" fill="#6f7b86" font-size="12" font-weight="800">EXPENSES</text><text x="296" y="252" fill="#13251d" font-size="31" font-weight="850">GBP 8.4k</text>
+    <rect x="490" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="514" y="218" fill="#6f7b86" font-size="12" font-weight="800">OUTSTANDING</text><text x="514" y="252" fill="#13251d" font-size="31" font-weight="850">GBP 2.3k</text>
+    <rect x="708" y="184" width="198" height="86" rx="16" fill="#f7f1e7" stroke="#e6dac9"/>
+    <text x="732" y="218" fill="#6f7b86" font-size="12" font-weight="800">SURPLUS</text><text x="732" y="252" fill="#13251d" font-size="31" font-weight="850">GBP 16.4k</text>
+  </g>
+  <rect x="54" y="306" width="548" height="224" rx="18" fill="#ffffff" stroke="#e6dac9"/>
+  <text x="82" y="344" fill="#13251d" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="850">Revenue vs expenses</text>
+  <g transform="translate(92 382)">
+    <g fill="#174d3a"><rect x="0" y="44" width="28" height="74" rx="6"/><rect x="72" y="58" width="28" height="60" rx="6"/><rect x="144" y="32" width="28" height="86" rx="6"/><rect x="216" y="48" width="28" height="70" rx="6"/><rect x="288" y="24" width="28" height="94" rx="6"/><rect x="360" y="8" width="28" height="110" rx="6"/></g>
+    <g fill="#b8d8c4"><rect x="34" y="78" width="28" height="40" rx="6"/><rect x="106" y="86" width="28" height="32" rx="6"/><rect x="178" y="70" width="28" height="48" rx="6"/><rect x="250" y="84" width="28" height="34" rx="6"/><rect x="322" y="72" width="28" height="46" rx="6"/><rect x="394" y="82" width="28" height="36" rx="6"/></g>
+    <g fill="#8c938a" font-family="Inter, Arial, sans-serif" font-size="11"><text x="8" y="142">Jan</text><text x="80" y="142">Feb</text><text x="152" y="142">Mar</text><text x="224" y="142">Apr</text><text x="296" y="142">May</text><text x="368" y="142">Jun</text></g>
+  </g>
+  <rect x="628" y="306" width="278" height="224" rx="18" fill="#ffffff" stroke="#e6dac9"/>
+  <text x="656" y="344" fill="#13251d" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="850">Income sources</text>
+  <circle cx="724" cy="424" r="58" fill="none" stroke="#174d3a" stroke-width="28" stroke-dasharray="220 145" transform="rotate(-90 724 424)"/>
+  <circle cx="724" cy="424" r="58" fill="none" stroke="#b8d8c4" stroke-width="28" stroke-dasharray="82 283" stroke-dashoffset="-220" transform="rotate(-90 724 424)"/>
+  <circle cx="724" cy="424" r="58" fill="none" stroke="#b99043" stroke-width="28" stroke-dasharray="63 302" stroke-dashoffset="-302" transform="rotate(-90 724 424)"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="12" fill="#6f7b86"><text x="806" y="394">Subscriptions</text><text x="806" y="424">Match fees</text><text x="806" y="454">Events</text></g>
+</svg>
